@@ -6,5 +6,5 @@ It will contain intorductory information about me and my work. Also it will cont
 ## My Projects
 
 * jupyter-notebooks - Contains my jupyter notebooks that I prepared for taking learning and practice notes while doing many MOOCs and turorials online. I will link and refer materials and citations in the readme. A good starting place for people who want a quick and "head-first" take on Jupyter Notebooks.
-* data-science-study-guide - My self-study syllabus for data science and machine learning.
+* data-science-study-guide - My self-study syllabus for data science and machine learning. I also added free and paid resources that will come in handy.
 
