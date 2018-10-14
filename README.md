@@ -11,3 +11,4 @@ It will contain intorductory information about me and my work. Also it will cont
 
 * **exploring-popular-datasets** - Here I explore some of the most popular datasets used for learning ML. I will be using mostly scikit-learn and Numpy, Scipy or Matplotlib. This repo is intended for beginners who are getting started with Machine Learning.
 
+* **learning-tensorflow** - My notes on tensorflow.
