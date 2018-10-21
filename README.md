@@ -11,6 +11,6 @@ It will contain intorductory information about me and my work. Also it will cont
 
 * **exploring-popular-datasets** - Here I explore some of the most popular datasets used for learning ML. I will be using mostly scikit-learn and Numpy, Scipy or Matplotlib. This repo is intended for beginners who are getting started with Machine Learning.
 
-* **learning-tensorflow** - My notes on tensorflow.
+* **learning-tensorflow** - Contains my study notes on tensorflow, taken while learning Tensorflow from Google's machine learning crash course. I am not sharing any answers or solutions to any excercise problems, just basic concepts, tips and tricks.
 
-* **ml-concepts** - Core concepts in Machine Learning explained with examples.
+* **ml-concepts** - Here I explain core concepts in Machine Learning with code examples in Scikit-learn.
